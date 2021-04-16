@@ -5,7 +5,7 @@ botocore==1.10.65
 certifi==2018.4.16
 chardet==3.0.4
 django-admin-tools==0.8.1
-django-debug-toolbar==1.9.1
+django-debug-toolbar==1.11.1
 django-filter==2.0.0
 django-storages==1.6.6
 djangorestframework==3.8.2
